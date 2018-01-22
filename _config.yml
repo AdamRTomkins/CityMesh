@@ -1,8 +1,8 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
-locale:             en_US
+title:              CityMesh
+bio:                "An open repository for City Meshes used in my 'Augmented Reality' for Architecture projects"
+description:        "An open repository for City Meshes used in my 'Augmented Reality' for Architecture projects"
+locale:             en_GB
 baseurl: "/CityMesh" # the subpath of your site, e.g. /blog
 url: "https://adamrtomkins.github.io/" # the base hostname & protocol for your site
 
