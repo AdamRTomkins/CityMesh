@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  AR for Architecture: Generate City Meshes
-date: 2018-01-22
-excerpt: A tutorial on how to Generate quick meshes of any city, using Open Street Maps.
+title:  "Welcome to Massively: The Jekyll Theme!"
+date:   2017-10-31
+excerpt: "Huge thanks to HTML5 UP for making this awesome template! Let's see what it can do"
 image: "/images/pic02.jpg"
 ---
 
