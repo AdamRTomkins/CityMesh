@@ -1,10 +1,10 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+title:              CityMesh
+bio:                'Built by Adam Tomkins as part of a passion project, Augmented Reality and Architecture'
+description:        "'A growing repository for City Meshes used in my Augmented Reality and Architecture project"
 locale:             en_US
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "/CityMesh" # the subpath of your site, e.g. /blog
+url: "https://adamrtomkins.github.io" # the base hostname & protocol for your site
 
 defaults:
 - scope:
@@ -41,9 +41,9 @@ instagram:          default
 github:             default
 
 # personal
-location:           Los Angeles, CA
+location:           Sheffield, UK
 phone:              310-318-5555
-email:              info@default.com
+email:              a.tomkins@sheffield.ac.uk
 
 # Gems
 gems:
