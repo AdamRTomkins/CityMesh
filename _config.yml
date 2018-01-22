@@ -4,7 +4,7 @@ bio:                "An open repository for City Meshes used in my 'Augmented Re
 description:        "An open repository for City Meshes used in my 'Augmented Reality' for Architecture projects"
 locale:             en_GB
 baseurl: "/CityMesh" # the subpath of your site, e.g. /blog
-url: "https://adamrtomkins.github.io/" # the base hostname & protocol for your site
+url: "https://adamrtomkins.github.io" # the base hostname & protocol for your site
 
 defaults:
 - scope:
@@ -35,15 +35,15 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            default
+twitter:            DrTomki
 facebook:           default
 instagram:          default
-github:             default
+github:             AdamRTomkins
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com
+location:           Sheffield, UK
+phone:              
+email:              a.tomkins@shef.ac.uk
 
 # Gems
 gems:
