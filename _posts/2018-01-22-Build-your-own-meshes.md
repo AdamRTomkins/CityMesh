@@ -3,7 +3,7 @@ layout: post
 title:  "AR for Architecture: Generate City Meshes"
 date:   2018-01-22
 excerpt: "A tutorial on how to Generate quick meshes of any city, using Open Street Maps."
-image: "/images/pic02.jpg"
+image: "/images/sheffield.png"
 ---
 
 
