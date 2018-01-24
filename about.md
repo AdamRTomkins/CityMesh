@@ -9,7 +9,7 @@ sitemap:
 ---
 ## About our Site
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "AR_&_Achitecture.png" | absolute_url }}" alt="" /></span>
 
 CityMesh aims to be a repository of easily re-usable models of cities around the world, aimed at enriching Architecture projects with Augmented Reality, stored on Github. Every model on here covered by the Creative Commons Attribution lisence, and you are free to reuse them however you wish, I would appreciate attribution, to allow other people to know where they can get models to use.
  
@@ -24,7 +24,7 @@ So far, all the models are obtained by using the OpenStreetMap data, and we prov
 </p>
 </div>
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/sheffield_map.png" | absolute_url }}" alt="" /></span>
 
 If you find any of this content interesting or useful, or have any questions, feel free to get in touch on twitter at DrTomki.
 
