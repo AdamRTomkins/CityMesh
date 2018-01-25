@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  Barcelona, the geometrical wonderland.
-date:   2018-01-22
-excerpt: "Inspired by a recent photo blog, I have collated meshes of some spectacular city shots"
+date:   2018-01-25
+excerpt: "Inspired by a recent photo blog, I have collated meshes of some spectacular Barcelona city shots"
 image: "/images/barcelona/LaSegradaFamilia.png"
 ---
 
