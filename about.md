@@ -19,7 +19,7 @@ So far, all the models are obtained by using the OpenStreetMap data, and we prov
 ### About The Author
 <div class="box">
   <p>
-    This resource has been put together by Adam Tomkins, a Computational Neuroscientist with a passion for Augmented reality and its many applications, as part of a self-driven project called AR and Architecture. You can find the original blog posts (here)[http://www.adamtomkins.github.io]. The aim of the project was to get those new to AR technology to get up to speed developing several basic projects, using free resources.
+    This resource has been put together by Adam Tomkins, a Computational Neuroscientist with a passion for Augmented reality and its many applications, as part of a self-driven project called AR and Architecture. You can find the original blog posts [here](http://www.adamtomkins.github.io). The aim of the project was to get those new to AR technology to get up to speed developing several basic projects, using free resources.
 
 </p>
 </div>
